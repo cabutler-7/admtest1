@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e10a-9f19-8000-63d5-01ef9001ef90_46661</versionUuid>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>c6abd986-57cc-4a82-a073-98359fdb30ff</versionUuid>
     <application>
         <name>Starter Application</name>
         <uuid>_a-0000d97a-0955-8000-207e-9b00009b0000_464</uuid>
@@ -48,6 +49,7 @@ The version of this application that is checked into git should only include the
                         <uuid>_a-0000d97a-7eaf-8000-207e-9b00009b0000_1254</uuid>
                         <uuid>_a-0000d97a-7eaf-8000-207e-9b00009b0000_1253</uuid>
                         <uuid>_a-0000d97a-7eaf-8000-207e-9b00009b0000_1252</uuid>
+                        <uuid>_a-0000e7e3-0bd3-8000-8fa8-01ef9001ef90_32530</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -287,6 +289,7 @@ The version of this application that is checked into git should only include the
     <applicationDocumentation/>
     <history>
         <historyInfo versionUuid="_a-0000e10a-9f19-8000-63d5-01ef9001ef90_46661"/>
+        <historyInfo versionUuid="c6abd986-57cc-4a82-a073-98359fdb30ff"/>
     </history>
     <postDeploymentProcessData/>
-</applicationHaul>
+</applicationHaul><!--updated on 2022-03-15T15:08:43.452-->
